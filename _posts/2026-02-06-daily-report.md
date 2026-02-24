@@ -37,3 +37,10 @@ AI 투자 환경이 성숙기에 접어들며 '검증된 사업 모델'이 없�
 ## 한줄 요약
 
 > AI 투자 거품이 꺼지고 선별적 생존 경쟁이 시작된 가운데, 바이오·헬스케어 분야에서 AI의 실질적 가치 창출이 가시화되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [AI drug discovery startup Converge Bio pulls in $25M | TechCrunch](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/)
+2. [AI in Biotech: Lessons from 2025 and the Trends Shaping Drug Discovery in 2026 | Ardigen](https://ardigen.com/ai-in-biotech-lessons-from-2025-and-the-trends-shaping-drug-discovery-in-2026/)
+3. [Four AI research trends enterprise teams should watch in 2026 | VentureBeat](https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026)
