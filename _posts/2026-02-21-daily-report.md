@@ -37,3 +37,10 @@ OpenAI가 ChatGPT 내 광고 통합을 테스트하기 시작했다는 소식이
 ## 한줄 요약
 
 > AI가 의료 연구에서 인간을 추월하고 ChatGPT에 광고가 도입되는 등 AI의 실용화·상업화 전선이 동시에 확대되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Generative AI analyzes medical data faster than human research teams | ScienceDaily](https://www.sciencedaily.com/releases/2026/02/260221060942.htm)
+2. [ChatGPT rolls out ads | TechCrunch](https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/)
+3. [Our approach to advertising and expanding access to ChatGPT | OpenAI](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
