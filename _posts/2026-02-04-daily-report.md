@@ -37,3 +37,10 @@ Waymo, Tesla, Baidu 등 자율주행 기업들이 도심 복잡 환경에서의 
 ## 한줄 요약
 
 > 디지털을 넘어 물리 세계로 확장하는 AI, 로봇과 의료 분야에서 인간의 일상을 근본적으로 바꾸기 시작하다.
+---
+
+## 📎 참고 자료
+
+1. [Inside CES 2026's "physical AI" takeover | TechCrunch](https://techcrunch.com/video/inside-ces-2026s-physical-ai-takeover/)
+2. [CES 2026 was all about 'physical AI' and robots, robots, robots | TechCrunch](https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/)
+3. [Humanoid robots are coming. Eventually? | The Verge](https://www.theverge.com/column/843418/humanoid-robot-hype)
