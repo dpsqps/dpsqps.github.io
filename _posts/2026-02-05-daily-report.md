@@ -37,3 +37,10 @@ AI 기술의 급속한 발전이 법적, 윤리적 인프라의 정비보다 훨
 ## 한줄 요약
 
 > AI 기술의 질주 속에 저작권, 딥페이크, 교육 공백 문제가 수면 위로 떠오르며 사회 전반의 AI 대응 체계 정비가 시급해졌다.
+---
+
+## 📎 참고 자료
+
+1. [AI copyright battles enter pivotal year as US courts weigh fair use | Reuters](https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/)
+2. [The Year in AI Law: 2025's Biggest Legal Cases and What They Mean for 2026](https://www.internetlawyer-blog.com/the-year-in-ai-law-2025s-biggest-legal-cases-and-what-they-mean-for-2026/)
+3. [The 11 runtime attacks breaking AI security — and how CISOs are stopping them | VentureBeat](https://venturebeat.com/security/ciso-inference-security-platforms-11-runtime-attacks-2026)
