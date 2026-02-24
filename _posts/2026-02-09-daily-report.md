@@ -37,3 +37,10 @@ AI 창작 도구의 성숙은 '창작의 민주화'라는 긍정적 효과와 �
 ## 한줄 요약
 
 > AI 창작 도구가 할리우드에 진입하고 환각 문제 해결이 가시화되며, AI는 이제 창작과 정보의 핵심 인프라로 자리매김하고 있다.
+---
+
+## 📎 참고 자료
+
+1. [In 2025, Hollywood cozied up to AI and had nothing good to show for it | The Verge](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)
+2. [The State of AI Video Generation in February 2026: Every Major Model Analyzed | Medium](https://medium.com/@cliprise/the-state-of-ai-video-generation-in-february-2026-every-major-model-analyzed-6dbfedbe3a5c)
+3. [6 data predictions for 2026: RAG is dead, what's old is new again | VentureBeat](https://venturebeat.com/data/six-data-shifts-that-will-shape-enterprise-ai-in-2026)
