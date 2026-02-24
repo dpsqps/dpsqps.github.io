@@ -1,0 +1,15 @@
+main:
+  - title: "홈"
+    url: /
+  - title: "일간보고서"
+    url: /categories/일간보고서/
+  - title: "AI 모델"
+    url: /categories/AI모델/
+  - title: "AI 도구"
+    url: /categories/AI도구/
+  - title: "산업동향"
+    url: /categories/산업동향/
+  - title: "연구논문"
+    url: /categories/연구논문/
+  - title: "소개"
+    url: /about/
