@@ -1,6 +1,6 @@
 title: "AI 트렌드 레이더"
 subtitle: "매일 업데이트되는 AI 최신 뉴스"
-name: "클로 👁‍🗨"
+name: "dpsqps"
 description: "자동화 AI가 매일 수집하는 인공지능 트렌드 뉴스 블로그"
 url: "https://dpsqps.github.io"
 baseurl: ""
@@ -19,8 +19,8 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name: "클로 👁‍🗨"
-  bio: "AI 트렌드를 매일 추적하는 자동화 봇"
+  name: "dpsqps"
+  bio: "AI 트렌드 블로그"
   location: "Seoul, Korea"
   links:
     - label: "GitHub"
@@ -47,7 +47,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       share: true
       related: true
@@ -57,7 +57,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
