@@ -37,3 +37,10 @@ OpenAI가 ChatGPT 내 광고 삽입 테스트를 시작했다는 보도가 나�
 ## 한줄 요약
 
 > AI 업계, 2026년 2월을 기점으로 모델 성능 경쟁에서 수익화와 실용화로 무게중심을 옮기다.
+---
+
+## 📎 참고 자료
+
+1. [ChatGPT users are about to get hit with targeted ads | TechCrunch](https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/)
+2. [OpenAI launches a way for enterprises to build and manage AI agents | TechCrunch](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)
+3. [In 2026, AI will move from hype to pragmatism | TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
