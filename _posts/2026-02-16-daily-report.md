@@ -37,3 +37,10 @@ AI의 급속한 성장이 에너지와 환경 문제를 심각한 병목으로 �
 ## 한줄 요약
 
 > AI 데이터센터의 에너지 갈증이 국가 단위 전력 소비를 넘어서는 수준에 이르면서, AI 산업의 지속가능성이 기술 발전과 동등한 핵심 과제로 부상했다.
+---
+
+## 📎 참고 자료
+
+1. [Microsoft wants to rewire data centers to save space | The Verge](https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor)
+2. [Big Tech shifts to "all of the above" strategy to power AI | Reuters](https://www.reuters.com/business/energy/big-tech-shifts-all-above-strategy-power-ai--reeii-2025-12-11/)
+3. [How Realistic Is Nuclear Power for AI Data Centers? | Data Center Knowledge](https://www.datacenterknowledge.com/energy-power-supply/how-realistic-is-nuclear-power-for-ai-data-centers)
