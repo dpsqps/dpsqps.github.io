@@ -37,3 +37,10 @@ Connext Global의 2026 AI 감독 보고서에 따르면, 직장에서 AI가 실�
 ## 한줄 요약
 
 > 구글 Gemini 3.1 Pro 출시와 World Labs 10억 달러 투자로 AI 추론·공간지능이 동시에 도약하며 AI 응용의 새 지평이 열리고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Gemini 3.1 Pro: Announcing our latest Gemini AI model | Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+2. [AI pioneer Fei-Fei Li's World Labs raises $1 billion in funding | Reuters](https://www.reuters.com/business/ai-pioneer-fei-fei-lis-world-labs-raises-1-billion-funding-2026-02-18/)
+3. [Spatial Intelligence Revolution: Fei-Fei Li | AI Business Review](https://www.aibusinessreview.org/2026/02/20/fei-fei-li-spatial-intelligence/)
