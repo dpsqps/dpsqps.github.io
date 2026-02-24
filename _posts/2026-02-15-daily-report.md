@@ -37,3 +37,10 @@ AI의 노동 시장 충격은 이제 이론적 예측을 넘어 실증적 현실
 ## 한줄 요약
 
 > AI 자동화가 화이트칼라 직군에 첫 구조적 충격을 주는 동시에 AI 관련 새 직업군이 폭발적으로 성장하며, AI 리터러시가 미래의 핵심 역량이 되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Investors predict AI is coming for labor in 2026 | TechCrunch](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/)
+2. [Even before AI, the white-collar jobs market was growing gloomy | Axios](https://www.axios.com/2026/02/12/ai-jobs-market-unemployment-rate)
+3. [The Worst-Case Future for White-Collar Workers | The Atlantic](https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/)
