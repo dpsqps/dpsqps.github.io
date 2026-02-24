@@ -37,3 +37,10 @@ Anthropic CEO 다리오 아모데이가 Dwarkesh Podcast에서 "우리는 지수
 ## 한줄 요약
 
 > AI 에이전트의 켄타우로스 시대, 하드웨어 혁신, 그리고 스케일링의 종말론—2026년 2월 23일 AI 업계는 전환점의 한가운데에 서 있다.
+---
+
+## 📎 참고 자료
+
+1. [AI's "centaur phase" consumes Silicon Valley | Axios](https://www.axios.com/2026/02/23/ai-agents-openclaw-openai-anthropic)
+2. [Chip startup Taalas raises $169 million to help build AI chips to take on Nvidia | Reuters](https://www.reuters.com/world/asia-pacific/chip-startup-taalas-raises-169-million-help-build-ai-chips-take-nvidia-2026-02-19/)
+3. [Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports | TechCrunch](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/)
