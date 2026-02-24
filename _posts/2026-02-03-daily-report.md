@@ -37,3 +37,10 @@ AI 모델 경쟁이 단순 벤치마크 성능을 넘어 '실용적 추론 능�
 ## 한줄 요약
 
 > AI 모델의 추론 능력 고도화와 코딩 도구 대중화로 소프트웨어 개발의 패러다임이 근본적으로 재편되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Anthropic's Claude Code Security is available now after finding 500+ vulnerabilities | VentureBeat](https://venturebeat.com/security/anthropic-claude-code-security-reasoning-vulnerability-hunting)
+2. [Claude Code just got updated with one of the most-requested user features | VentureBeat](https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features)
+3. [Four AI research trends enterprise teams should watch in 2026 | VentureBeat](https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026)
