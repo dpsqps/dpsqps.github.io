@@ -1,0 +1,23 @@
+title: AI 트렌드 레이더
+description: 매일 업데이트되는 AI 최신 뉴스 정리
+baseurl: ""
+url: "https://dpsqps.github.io"
+author: 댄
+lang: ko
+
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
