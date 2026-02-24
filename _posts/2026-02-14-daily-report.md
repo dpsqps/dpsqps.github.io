@@ -37,3 +37,10 @@ AI가 인간의 감정 영역에 깊숙이 진입하면서 기술, 심리학, �
 ## 한줄 요약
 
 > AI가 인간의 감정 영역에 진입하며 동반자 서비스가 급성장하는 가운데, 감성 AI의 윤리와 AI 복지라는 새로운 철학적 질문이 제기되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [What do you love when you fall for AI? | The Verge](https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance)
+2. [AI companion apps on track to pull in $120M in 2025 | TechCrunch](https://techcrunch.com/2025/08/12/ai-companion-apps-on-track-to-pull-in-120m-in-2025/)
+3. [A former physician has launched Robyn, an empathetic AI companion | TechCrunch](https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/)
