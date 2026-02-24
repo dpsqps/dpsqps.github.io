@@ -37,3 +37,10 @@ OpenAI o3, Anthropic Claude Opus, 구글 Gemini 3 Deep Think 등 주요 AI 기�
 ## 한줄 요약
 
 > 구글 Gemini 3 Deep Think 업그레이드로 AI 추론 경쟁이 가열되고, 자율 실험 AI 과학자가 등장하며 AI의 지적 역할이 전문가 수준으로 격상되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Gemini 3 Deep Think: AI model update designed for science | Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
+2. [Gemini 3 Flash is here, bringing a 'huge' upgrade to the Gemini app | The Verge](https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch)
+3. [Gemini 3: Introducing the latest Gemini AI model from Google](https://blog.google/products/gemini/gemini-3/)
