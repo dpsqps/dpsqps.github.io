@@ -37,3 +37,10 @@ AI와 과학의 결합은 단순한 데이터 분석 도구를 넘어 '인류 �
 ## 한줄 요약
 
 > AI 과학자의 등장과 칩 경쟁 심화로 AI의 과학적 기여가 확대되고 컴퓨팅 접근성이 높아지는 새로운 국면이 시작되었다.
+---
+
+## 📎 참고 자료
+
+1. [How AlphaChip transformed computer chip design — Google DeepMind](https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/)
+2. [Four AI research trends enterprise teams should watch in 2026 | VentureBeat](https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026)
+3. [In 2026, AI will move from hype to pragmatism | TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
