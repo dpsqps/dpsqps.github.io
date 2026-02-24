@@ -37,3 +37,10 @@ AI 발전의 '쉬운 길'이 끝나가고 있다는 신호들이 나타나고 �
 ## 한줄 요약
 
 > AI 스케일링의 한계가 논의되는 가운데 강화학습, 합성 데이터, 새 아키텍처가 차세대 AI 혁신의 새 길을 열고 있다.
+---
+
+## 📎 참고 자료
+
+1. [In 2026, AI will move from hype to pragmatism | TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
+2. [6 data predictions for 2026: RAG is dead, what's old is new again | VentureBeat](https://venturebeat.com/data/six-data-shifts-that-will-shape-enterprise-ai-in-2026)
+3. [Four AI research trends enterprise teams should watch in 2026 | VentureBeat](https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026)
