@@ -37,3 +37,10 @@ Gartner 최신 설문에 따르면 Fortune 1000 기업의 AI 도입률이 전년
 ## 한줄 요약
 
 > 피지컬 AI의 산업 침투와 NVIDIA-OpenAI의 10GW 인프라 협약으로 AI가 디지털을 넘어 물리적 인프라의 핵심 축으로 자리잡고 있다.
+---
+
+## 📎 참고 자료
+
+1. [OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems | NVIDIA Newsroom](https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems)
+2. [Industrial AI Takes Center Stage: CES 2026 Showcases Physical AI Revolution | mlq.ai](https://mlq.ai/news/ai-roundup/2026-02-22/industrial-ai-takes-center-stage-ces-2026-showcases-physical-ai-revolution-while-enterprise-adoption-accelerates/)
+3. [Inside CES 2026's "physical AI" takeover | TechCrunch](https://techcrunch.com/video/inside-ces-2026s-physical-ai-takeover/)
