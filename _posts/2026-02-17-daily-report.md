@@ -37,3 +37,10 @@ AI 교육 혁신은 전 세계적으로 가장 기대되는 AI 응용 분야 중
 ## 한줄 요약
 
 > AI 개인화 교육이 학습 성과 35% 향상이라는 실증 결과를 내놓으며 교육 혁신의 핵심 엔진으로 부상하고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Generative AI: Transforming education into a personalized, addictive learning experience | TechCrunch](https://techcrunch.com/2024/01/02/generative-ai-transforming-education-into-a-personalized-addictive-learning-experience/)
+2. [Designing the 2026 Classroom: Emerging Learning Trends in an AI-Powered Education System | Faculty Focus](https://www.facultyfocus.com/articles/teaching-with-technology-articles/designing-the-2026-classroom-emerging-learning-trends-in-an-ai-powered-education-system/)
+3. [49 predictions about edtech, innovation, and AI in 2026 | eSchool News](https://www.eschoolnews.com/innovative-teaching/2026/01/01/draft-2026-predictions/)
