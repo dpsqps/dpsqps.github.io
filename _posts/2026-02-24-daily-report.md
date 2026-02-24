@@ -37,3 +37,10 @@ Gemini 3.1 Pro의 ARC-AGI-2 점수는 AI 추론 능력이 단기간에 얼마나
 ## 한줄 요약
 
 > Gemini 3.1 Pro의 ARC-AGI-2 77.1% 달성으로 AI 추론이 새 지평을 열며, 2026년 2월은 AGI를 향한 여정의 결정적 전환점으로 기록될 것이다.
+---
+
+## 📎 참고 자료
+
+1. [Gemini 3.1 Pro: A smarter model for your most complex tasks | Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+2. [All the important news from the ongoing India AI Impact Summit | TechCrunch](https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/)
+3. [Gemini 3.1 Pro - Model Card — Google DeepMind](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
