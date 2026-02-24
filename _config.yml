@@ -1,7 +1,7 @@
 title: "AI 트렌드 레이더"
 subtitle: "매일 업데이트되는 AI 최신 뉴스"
 name: "dpsqps"
-description: "자동화 AI가 매일 수집하는 인공지능 트렌드 뉴스 블로그"
+description: "AI 최신 트렌드를 카테고리별로 정리하는 기술 블로그"
 url: "https://dpsqps.github.io"
 baseurl: ""
 repository: "dpsqps/dpsqps.github.io"
@@ -52,6 +52,9 @@ defaults:
       share: true
       related: true
       show_date: true
+      header:
+        overlay_filter: "0.6"
+        overlay_color: "#1a1a2e"
   - scope:
       path: "_pages"
       type: pages
