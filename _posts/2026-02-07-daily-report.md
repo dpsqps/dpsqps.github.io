@@ -37,3 +37,10 @@ Khan Academy, Coursera 등 온라인 교육 플랫폼에 AI 튜터가 통합되�
 ## 한줄 요약
 
 > 수백만 토큰을 처리하는 AI가 법률·금융·교육 전문 영역의 핵심 인프라로 자리잡으며 지식 산업 전반을 재편하고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Context Length Comparison: Leading AI Models in 2026 | Elvex](https://www.elvex.com/blog/context-length-comparison-ai-models-2026)
+2. [In 2026, AI will move from hype to pragmatism | TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
+3. [Four AI research trends enterprise teams should watch in 2026 | VentureBeat](https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026)
