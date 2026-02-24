@@ -37,3 +37,10 @@ OpenAI의 프롬프트 캐싱 가이드는 AI 서비스 운영 비용을 낮추�
 ## 한줄 요약
 
 > OpenAI 캐싱 최적화 가이드와 에이전틱 AI의 기업 확산으로 AI 활용의 경제성과 자율성이 동시에 향상되는 한 주였다.
+---
+
+## 📎 참고 자료
+
+1. [OpenAI launches a way for enterprises to build and manage AI agents | TechCrunch](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)
+2. [OpenAI launches new macOS app for agentic coding | TechCrunch](https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/)
+3. [VCs predict strong enterprise AI adoption next year | TechCrunch](https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/)
