@@ -37,3 +37,10 @@ AI 시스템이 강력해질수록 이를 악용하거나 공격하려는 시도
 ## 한줄 요약
 
 > AI 공격과 AI 방어의 사이버 대결이 본격화되며 AI 보안이 디지털 생태계의 핵심 과제로 부상하고 있다.
+---
+
+## 📎 참고 자료
+
+1. [The 11 runtime attacks breaking AI security — and how CISOs are stopping them | VentureBeat](https://venturebeat.com/security/ciso-inference-security-platforms-11-runtime-attacks-2026)
+2. [OpenAI admits prompt injection is here to stay as enterprises lag on defenses | VentureBeat](https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay)
+3. [Anthropic published the prompt injection failure rates | VentureBeat](https://venturebeat.com/security/prompt-injection-measurable-security-metric-one-ai-developer-publishes-numbers)
