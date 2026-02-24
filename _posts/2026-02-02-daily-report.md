@@ -37,3 +37,10 @@ AI 인프라 투자 붐은 2026년에도 지속될 전망이며, 특히 추론 �
 ## 한줄 요약
 
 > AI 인프라 투자 초호황과 멀티모달 대중화가 동시에 진행되며 AI 산업의 외연이 급속히 확장되고 있다.
+---
+
+## 📎 참고 자료
+
+1. [Nvidia says some AI GPUs are 'sold out,' grows data center business by $10B | The Verge](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)
+2. [NVIDIA Q3 FY 2026 Earnings: Record Data Center Revenue | Futurum](https://futurumgroup.com/insights/nvidia-q3-fy-2026-record-data-center-revenue-higher-q4-guide/)
+3. [In 2026, AI will move from hype to pragmatism | TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
