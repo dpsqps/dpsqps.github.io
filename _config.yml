@@ -7,9 +7,6 @@ lang: ko
 
 theme: minima
 
-minima:
-  skin: classic
-
 plugins:
   - jekyll-feed
 
