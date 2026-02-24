@@ -37,3 +37,10 @@ AI는 이제 국가 경쟁력의 핵심으로 자리잡으며 기술 지정학�
 ## 한줄 요약
 
 > AI 패권 경쟁이 전방위적 국가 간 대결로 격화되는 가운데, 한국은 AI 반도체 강점을 발판 삼아 독자 AI 생태계 구축에 나섰다.
+---
+
+## 📎 참고 자료
+
+1. [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
+2. [The Complicated Stakes of the AI Race Between the U.S. and China | Time](https://time.com/7379419/ai-race-us-china/)
+3. [How US Export Controls Have (and Haven't) Curbed Chinese AI | AI Frontiers](https://ai-frontiers.org/articles/us-chip-export-controls-china-ai)
