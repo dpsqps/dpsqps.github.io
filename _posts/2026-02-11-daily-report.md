@@ -37,3 +37,10 @@ GPT-5나 Gemini Ultra와 같은 초대형 모델 외에도, 모바일 기기와 
 ## 한줄 요약
 
 > 협력하는 AI 에이전트 팀이 기업 자동화의 새 지평을 열고, 소형 모델이 엣지 기기에서 AI를 일상화하는 양방향 AI 확장이 진행 중이다.
+---
+
+## 📎 참고 자료
+
+1. [While everyone talks about an AI bubble, Salesforce quietly added 6,000 enterprise customers | VentureBeat](https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000)
+2. [Salesforce launches Agentforce 2dx, letting AI run autonomously across enterprise systems | VentureBeat](https://venturebeat.com/ai/salesforce-launches-agentforce-2dx-pushing-autonomous-ai-deep-into-enterprise-workflows)
+3. [How AlphaChip transformed computer chip design — Google DeepMind](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
