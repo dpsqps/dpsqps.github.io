@@ -22,7 +22,7 @@ plugins:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-XXXXXXXXXX"
+    tracking_id: "G-LPT36VYJMK"
     anonymize_ip: false
 
 author:
