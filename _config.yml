@@ -44,6 +44,7 @@ paginate: 10
 paginate_path: /page:num/
 
 timezone: Asia/Seoul
+future: true  # 09:xx 시간 포스트가 빌드 시점보다 미래여도 발행
 
 include:
   - _pages
