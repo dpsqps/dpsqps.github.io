@@ -42,3 +42,13 @@ Claude Design은 Claude Opus 4.7를 기반으로 프롬프트만으로 프로토
 ## 오늘의 시사점
 
 두 사건은 별개처럼 보이지만 같은 곡선의 양 끝이다. **실행 계층 장악(Codex)**과 **시장 계층 진입(Claude Design)**이 만나면, AI 기업은 (1) 사용자의 워크플로우를 직접 수행하면서 (2) 그 워크플로우를 감싸던 기존 SaaS의 자리를 동시에 빼앗는다. 그동안 SaaS의 해자였던 '특정 UI·특정 워크플로우의 독점'은, 모델이 그 워크플로우 자체를 자연어로 재현하는 순간 빠르게 얇아진다. 투자 관점에서 이는 디자인·문서·코딩·노코드 등 'AI로 재현 가능한 단일 워크플로우' 기업의 밸류에이션 재평가 압력이 개별 제품 출시 이벤트마다 반복될 수 있음을 시사한다. 반대로 모델 기업에게는 API 마진을 넘어선 애플리케이션 매출이라는 새 성장 축이 열린다. 2026년 봄의 키워드는 '더 똑똑한 모델'이 아니라 **'모델이 어디까지 내려와 누구의 점심을 먹는가'**다. [OpenAI](https://openai.com/index/codex-for-almost-everything/) / [Sherwood News](https://sherwood.news/tech/anthropic-launches-claude-design-sending-shares-of-figma-down/) / [Gizmodo](https://gizmodo.com/anthropic-launches-claude-design-figma-stock-immediately-nosedives-2000748071)
+
+---
+
+## 📎 참고 자료
+
+1. [OpenAI: Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)
+2. [OpenAI Developers: Codex Changelog](https://developers.openai.com/codex/changelog)
+3. [Sherwood News: Anthropic launches Claude Design, sending Figma shares down](https://sherwood.news/tech/anthropic-launches-claude-design-sending-shares-of-figma-down/)
+4. [Gizmodo: Anthropic Launches Claude Design, Figma Stock Immediately Nosedives](https://gizmodo.com/anthropic-launches-claude-design-figma-stock-immediately-nosedives-2000748071)
+5. [Inbenta: Claude Design Sends Figma Stock Tumbling 7% and Rattles Adobe](https://www.inbenta.com/ai-this-week/anthropics-claude-design-sends-figma-stock-tumbling-7-and-rattles-adobe)
